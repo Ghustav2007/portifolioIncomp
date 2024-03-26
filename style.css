@@ -1,0 +1,165 @@
+body{
+    text-align: center;
+    background-image: url(https://i.ibb.co/P9vgPdW/fundo.jpg);
+    background-size: 100%;
+}
+.img1{
+    height: 200px;
+    width: 200px;
+    margin-left: 10px;
+    margin-top: 13px;
+}
+.img2{
+    height: 240px;
+    width: 240px;
+}
+.img3{
+    height: 240px;
+    width: 240px;
+}
+.img4{
+    height: 240px;
+    width: 240px;
+}
+
+.btn{
+    display: inline-block;
+    background: goldenrod;
+    color: black;
+    padding: 0.8em 1.8em;
+    
+    margin-top: 2em;
+    cursor: default;
+    border-radius: 15px;
+    font-family: sans-serif;
+
+ }
+ .PJ{
+    
+    width: 81%;
+    height: 50%;
+    margin-left: 130px;
+    margin-right: 130px;
+ } 
+ 
+ .PJ2{
+    
+    width: 81%;
+    height: 50%; 
+    margin-left: 120px;
+    margin-right: 130px;
+ }
+ .velha{
+    width: 105%;
+    height: 30%;
+    margin-left: 1px;
+ }
+ 
+    
+
+ 
+
+ img{
+    width: 900px;
+    height: 900px;
+    border-radius: 30px;
+    
+    
+    
+
+   
+ }
+
+
+a{
+        text-decoration: none;
+        margin-top: 20px;
+        
+    
+    }
+
+h1{
+    color: white;
+    font-size: 60px;
+    font-family: sans-serif;
+    margin-left: 67px;
+    margin-top: 200px;
+    margin-right: 450px;
+    margin-bottom: 50px ;
+    
+
+    
+}
+p{
+    font-family: sans-serif;
+    color: white;
+    margin-right: 190px;
+    font-size: 23px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-left: 160px;
+    padding: 22px;
+    background-color: rgba(218, 165, 32, 0.582);
+    border-radius: 15px;
+    text-align: center;
+}
+h2{
+    font-family: sans-serif;
+    color: white;
+    margin-top: 100px;
+    font-size: 32px;
+   
+}
+h3{
+    color: goldenrod;
+    font-family: sans-serif;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-size: 35px;
+}
+h4{
+    font-family: sans-serif;
+    color: goldenrod;
+    font-size: 40px;
+    margin-bottom: 80px;
+    margin-top: 90px;
+}
+h5{
+    font-family: sans-serif;
+    color: goldenrod;
+    font-size: 40px;
+}
+h6{
+    font-family: sans-serif;
+    color: goldenrod;
+    font-size: 35px;
+}
+
+
+
+.V{
+    height: 600px;
+    width: 900px;
+     margin: 95px; 
+    border-radius: 36px;
+}
+.calc{
+    height: 50%;
+    width: 72%;
+    margin-left: 156px;
+    border-radius: 36px;
+
+}
+footer{
+    font-family: sans-serif;
+    background-color: goldenrod;
+    margin-top: 75px;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
